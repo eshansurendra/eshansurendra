@@ -22,9 +22,19 @@ Here are some ideas to get you started:
 - 🔧 Currently working on an Intelligent Driver Assist System project.
 - 💬 Ask me about **Python, Tensorflow**
 
-- 📫 How to reach me: 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/eshan-surendra/)
-  [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/your-twitter-handle)
+<div align="center">
+  <h3>📫 How to reach me:</h3>
+  <p>
+    <a href="https://www.linkedin.com/in/eshan-surendra/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://twitter.com/">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter">
+    </a>
+  </p>
+</div>
+  
 <!--
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
