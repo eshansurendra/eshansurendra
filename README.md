@@ -56,4 +56,7 @@ Here are some ideas to get you started:
 
 
 
-![Eshan's github stats](https://github-readme-stats.vercel.app/api?username=eshansurendra&show_icons=true&theme=dracula&hide=stars,issues)
+**![Eshan's github stats](https://github-readme-stats.vercel.app/api?username=eshansurendra&show_icons=true&theme=dracula&hide=stars,issues)
+<!--
+*[[Eshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=eshansurendra)](https://github.com/eshansurendra/github-readme-stats)
+-->
