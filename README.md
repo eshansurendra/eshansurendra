@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🎓 Electronic & Telecommunication Engineering Undergraduate Student at [University of Moratuwa](https://www.mrt.ac.lk/eng/)
 - 🚀 I'm enthusiastic about machine learning!
-- 🔧 Currently working on an Intelligent Driver Assist System project.
+- 🔧 Currently working on a Face Generation using Stable Difusion project.
 - 💬 Ask me about **Python, Tensorflow**
 
 <div align="center">
