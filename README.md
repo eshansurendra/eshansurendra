@@ -58,9 +58,8 @@ Here are some ideas to get you started:
 
 </p>
 
-
-
-
-<img src ='https://github-readme-stats.vercel.app/api?username=eshansurendra&show_icons=true&theme=dark'>
-<img src ='https://github-readme-stats.vercel.app/api/top-langs/?username=eshansurendra&layout=compact&theme=dark'>
-<img src=' https://metrics.lecoq.io/about/eshansurendra'>
+### *My GitHub Stats*
+<p float="left">
+<img height="180em" src ='https://github-readme-stats.vercel.app/api?username=eshansurendra&show_icons=true&theme=dark' /> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshansurendra&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dark"/>
+</p>
