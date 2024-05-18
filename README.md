@@ -58,8 +58,12 @@ Here are some ideas to get you started:
 
 </p>
 
-### *My GitHub Stats*
-<p float="left">
-<img height="180em" src ='https://github-readme-stats.vercel.app/api?username=eshansurendra&show_icons=true&theme=dark' /> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshansurendra&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dark"/>
-</p>
+
+
+<div align="center">
+  <p float="left">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eshansurendra&theme=dark&show_icons=true&hide_border=false&count_private=true" /> 
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshansurendra&theme=dark&show_icons=true&hide_border=false&layout=compact"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=eshansurendra&theme=dark&hide_border=false"/>
+  </p>
+</div>
