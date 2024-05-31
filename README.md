@@ -29,8 +29,8 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
     </a>
     &nbsp;&nbsp;
-    <a href="https://twitter.com/">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter">
+    <a href="https://x.com/EshanSurendra">
+      <img src="https://img.shields.io/badge/(Twitter)-blue?style=for-the-badge&logo=x">
     </a>
   </p>
 </div>
