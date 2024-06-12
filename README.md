@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 - 🚀 I'm enthusiastic about machine learning!
 - 🔧 Currently working on a Face Generation using Stable Difusion project.
 - 💬 Ask me about **Python, Tensorflow**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=eshansurendra&label=Profile%20views&color=0e75b6&style=flat" alt="PrabathBK" /> </p>
+
 
 <div align="center">
   <h3>📫 How to reach me:</h3>
