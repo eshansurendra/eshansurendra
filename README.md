@@ -18,12 +18,11 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...-->
 
 - 🎓 Electronic & Telecommunication Engineering Undergraduate Student at [University of Moratuwa](https://www.mrt.ac.lk/eng/)
-- 🚀 I'm enthusiastic about machine learning!
-- 🔧 Currently working on a Face Generation using Stable Difusion project.
+- 🚀 I'm enthusiastic about Generative AI and Deep learning!
+- 🔧 Currently working on a Stable Difusion based Face Generation project.
+<!--
 - 💬 Ask me about **Python, Tensorflow**
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eshansurendra&label=Profile%20views&color=0e75b6&style=flat" alt="PrabathBK" /> </p>
-
-
+-->
 <div align="center">
   <h3>📫 How to reach me:</h3>
   <p>
