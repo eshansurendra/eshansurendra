@@ -27,14 +27,19 @@ Here are some ideas to get you started:
   <h3>📫 How to reach me:</h3>
   <p>
     <a href="https://www.linkedin.com/in/eshan-surendra/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
     </a>
     &nbsp;&nbsp;
-    <a href="https://x.com/EshanSurendra">
-      <img src="https://img.shields.io/badge/(Twitter)-blue?style=for-the-badge&logo=x">
+    <a href="https://eshansurendra.github.io/">
+      <img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge&logo=firefox" alt="Portfolio">
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/eshan-surendra/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
     </a>
   </p>
 </div>
+
   
 <!--
 - 😄 Pronouns: ...
