@@ -62,11 +62,6 @@ Here are some ideas to get you started:
 
 </p>
 
-![Profile Night Green](profile-3d-contrib/profile-night-green.svg)
-
-
-
-
 <div align="center">
   <p float="left">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eshansurendra&theme=dark&show_icons=true&hide_border=false&count_private=true" /> 
@@ -74,3 +69,10 @@ Here are some ideas to get you started:
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=eshansurendra&theme=dark&hide_border=false"/>
   </p>
 </div>
+
+![Profile Night Green](profile-3d-contrib/profile-night-green.svg)
+
+
+
+
+
