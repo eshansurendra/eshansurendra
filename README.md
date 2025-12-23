@@ -72,11 +72,19 @@ Fiber Probe Images.
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
 </p>
 
-<div align="center">
+<!-- <div align="center">
   <p float="left">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eshansurendra&theme=dark&show_icons=true&hide_border=false&count_private=true" /> 
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshansurendra&theme=dark&show_icons=true&hide_border=false&layout=compact"/>
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=eshansurendra&theme=dark&hide_border=false"/>
+  </p>
+</div> -->
+
+<div align="center">
+  <p>
+    <img height="180em" src="https://github-readme-stats-one-mu-86.vercel.app/api?username=eshansurendra&theme=dark&show_icons=true&count_private=true" />
+    <img height="180em"src="https://github-readme-stats-one-mu-86.vercel.app/api/top-langs/?username=eshansurendra&theme=dark&layout=compact" />
+    <!-- <img height="180em"src="https://github-readme-streak-stats.herokuapp.com/?user=eshansurendra&theme=dark" /> -->
   </p>
 </div>
 
