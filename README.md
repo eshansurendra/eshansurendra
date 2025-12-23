@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...-->
 
 - 🎓 Electronic & Telecommunication Engineering Undergraduate Student at [University of Moratuwa](https://www.mrt.ac.lk/eng/)
-- 🚀 I'm enthusiastic about Generative AI and Deep learning!
-- 🔧 Currently working on a Stable Difusion based Face Generation project.
+- 🚀 I'm enthusiastic about AI and ML!
+- 🔧 Currently working on FYP: Estimation of ECM Signatures in 
+Fiber Probe Images.
 <!--
 - 💬 Ask me about **Python, Tensorflow**
 -->
